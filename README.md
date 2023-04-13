@@ -11,6 +11,9 @@ Roboflow food ingredients dataset: https://universe.roboflow.com/seongmin/food-i
 
 Comience con tensorflow.js: https://www.tensorflow.org/js/tutorials?hl=es-419
 
+Roboflow con tensorflow.js: 
+https://docs.roboflow.com/inference/web-browser
+https://blog.tensorflow.org/2022/07/how-roboflow-enables-thousands-of-developers-to-use-computer-vision-with-TensorFlow.js.html
 
 Otros tutoriales de yolov5 con comida:
 https://www.researchgate.net/figure/Training-dataset-containing-11-food-ingredients-The-YOLOv5-model-is-trained-on-the-Q-100_fig5_364972952
