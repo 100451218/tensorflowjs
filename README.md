@@ -1,5 +1,6 @@
 # tensorflowjs
 
+https://blog.roboflow.com/deploy-yolov8-models-to-replit/
 
 Quiero añadir ahora un modelo, yolov5 o no entrenado por mi para reconocer, entre otras cosa ingredientes. Estaría guay que detectara ingredientes (Se supone que al fin y al cabo harina siempre hay).
 
